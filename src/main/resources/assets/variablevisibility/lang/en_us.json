@@ -1,0 +1,24 @@
+{
+	"category.variablevisibility.general": "Variable Visibility",
+	"key.variablevisibility.enableKey": "Enable/Disable Visibility",
+	
+	"text.autoconfig.variablevisibility.title": "Variable Visibility Config",
+	"text.autoconfig.variablevisibility.option.enabled": "Enabled",
+	"text.autoconfig.variablevisibility.option.enabled.@Tooltip": "This enables or disables all features from the mod.",
+	"text.autoconfig.variablevisibility.option.allShadows": "General Shadows",
+	"text.autoconfig.variablevisibility.option.allShadows.@Tooltip": "Should shadows be displayed?",
+	"text.autoconfig.variablevisibility.option.allNameTags": "General Name Tags",
+	"text.autoconfig.variablevisibility.option.allNameTags.@Tooltip": "How should name tags be displayed?",
+	"text.autoconfig.variablevisibility.option.transparentRange": "Transparent Range",
+	"text.autoconfig.variablevisibility.option.transparentRange.@Tooltip": "How close should players have to be before they become transparent?",
+	"text.autoconfig.variablevisibility.option.transparentShadows": "Transparent Shadows",
+	"text.autoconfig.variablevisibility.option.transparentShadows.@Tooltip": "Should shadows be displayed when players are transparent?",
+	"text.autoconfig.variablevisibility.option.transparentNameTags": "Transparent Name Tags",
+	"text.autoconfig.variablevisibility.option.transparentNameTags.@Tooltip": "How should name tags be displayed when players are transparent?",
+	"text.autoconfig.variablevisibility.option.invisibilityRange": "Invisibility Range",
+	"text.autoconfig.variablevisibility.option.invisibilityRange.@Tooltip": "How close should players have to be before they become invisible?",
+	"text.autoconfig.variablevisibility.option.invisibilityShadows": "Invisibility Shadows",
+	"text.autoconfig.variablevisibility.option.invisibilityShadows.@Tooltip": "Should shadows be displayed when players are invisible?",
+	"text.autoconfig.variablevisibility.option.invisibilityNameTags": "Invisibility Name Tags",
+	"text.autoconfig.variablevisibility.option.invisibilityNameTags.@Tooltip": "How should name tags be displayed when players are invisible?"
+}
